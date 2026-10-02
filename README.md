@@ -53,3 +53,9 @@ e.Contains("hailed")     // true
 install deps `go get ./...`
 
 and `go test ./... -v`
+
+## Backend architecture and integration
+
+For help designing a Go backend, integrating services, or building an MVP, see [Architecture with Soul — development and integration](https://soularchitecture.space/en/development?utm_source=github&utm_medium=referral&utm_campaign=backend_architecture&utm_content=events_readme).
+
+Для задач по Go/backend, архитектуре и интеграциям: [Архитектура с душой — разработка и интеграция](https://soularchitecture.space/ru/development?utm_source=github&utm_medium=referral&utm_campaign=backend_architecture&utm_content=events_readme_ru).
